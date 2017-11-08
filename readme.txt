@@ -5,4 +5,9 @@ i am your father
 you are a dog
 creating a wahhaha
 !!!!!!!!!!!!!!!
+<<<<<<< HEAD
 sasasaaasa
+=======
+you you you 
+>>>>>>> feature1
+fffffffff
